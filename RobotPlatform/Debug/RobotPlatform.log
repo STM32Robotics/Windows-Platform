@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\tmarinescu2415\source\repos\robotplatform\robotplatform\main.cpp(27): warning C4018: '<': signed/unsigned mismatch
+c:\users\tmarinescu2415\source\repos\robotplatform\robotplatform\main.cpp(37): warning C4018: '<': signed/unsigned mismatch
+  RobotPlatform.vcxproj -> C:\Users\tmarinescu2415\Source\Repos\RobotPlatform\Debug\RobotPlatform.exe
